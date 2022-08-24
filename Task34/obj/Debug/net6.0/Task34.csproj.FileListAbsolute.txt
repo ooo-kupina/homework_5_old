@@ -1,0 +1,15 @@
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\bin\Debug\net6.0\Task34.exe
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\bin\Debug\net6.0\Task34.deps.json
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\bin\Debug\net6.0\Task34.dll
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\bin\Debug\net6.0\Task34.pdb
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.dll
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\refint\Task34.dll
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.pdb
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+C:\GeekBrains\ЗнСЯзыкамиПрогр\homework_5\Task34\obj\Debug\net6.0\ref\Task34.dll
